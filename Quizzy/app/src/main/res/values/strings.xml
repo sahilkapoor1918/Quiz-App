@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quizzy</string>
+    <string name="que1">Que 1: Which country has started producing \'Civet Coffee\' the most expensive coffee in the world?</string>
+    <string name="que2">Que 2: Asian Development Bank announced that it would provide $152 million loan to ________ to enhance power transmission.</string>
+    <string name="que3">Que 3: Which country is hosting the Eastern Economic Forum (EEF-2017)?</string>
+    <string name="que4">Que 4: Which country will host 2019–Cricket World Cup ? </string>
+    <string name="que5">Que 5: Recently, India and Japan ink ________ agreements for enhancing bilateral co-operation.</string>
+    <string name="que6">Que 6: This country has signed a deal with Russia to buy S-400 missile defence systems.</string>
+</resources>
